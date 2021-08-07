@@ -2,7 +2,7 @@
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
 * Autor: Severiche Jose
-* Título corto del trabajo:  XXXXCOMPLETARXXXX
+* Título corto del trabajo: Conversor DC-DC Step Up CN6009
 * Descripción:  XXXXCOMPLETARXXXX
 
 
