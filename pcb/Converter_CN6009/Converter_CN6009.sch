@@ -7,7 +7,7 @@ Sheet 1 1
 Title "Replica conversor DC-DC Step Up CN6009 Ajustable"
 Date "2021-08-14"
 Rev "A"
-Comp ""
+Comp "FIUBA"
 Comment1 "Approved by : Diego Brengi"
 Comment2 "Reviewed by : Federico Montes de Oca"
 Comment3 "Created by : Jose Severiche"
