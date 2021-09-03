@@ -3,13 +3,18 @@ Este repositorio contiene el trabajo práctico final para la asignatura de Dise�
 
 * Autor: Severiche Jose
 * Título corto del trabajo: Conversor DC-DC Step Up CN6009
-* Descripción:  XXXXCOMPLETARXXXX
-
-
+* Descripción: el CN6009 es un regulador-elevador de voltaje ajustable, basado su funcionamiento en fuentes conmutadas, tambien denominado BOOST. Para la generacion y control del voltaje de salida este modulo utiliza el integrado XL6009E1, que se caracteriza por generar pulsos de pwm a altas frecuencias.
+ * caracteristicas:
+   * voltaje de entrada:5V-32V
+   * voltaje de salida:5V-35V ajustable
+   * Corriente maxima de entrada:4A
+   * Corriente maxima de salida:3A
+   * Frecuencia de operacion:400KHz
+   * Eficiencia aproximada:94%
+   * Temperatura de operacion: de -40 a 85 ºC
+  
 ## Licencia de este trabajo ##
-XXXMENCIONAR ACÁ LA LICENCIAXXX (Editar este párrafo) 
-Y además colcar el archivo de texto de la misma en el directorio raíz.
-Para este TP se pide que la licencia sea de hardware abierto.
+CERN Open Hardware License (OHL)
 Ver la sección "What license should I use?": https://www.oshwa.org/faq/
 
 ## Estructura del TP FINAL ##
